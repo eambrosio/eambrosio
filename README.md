@@ -1,13 +1,44 @@
-<h1 align="center">Hi 👋, I'm Emilio</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eambrosio&label=Profile%20views&color=0e75b6&style=flat" alt="eambrosio" /> </p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/emilioambrosiocordero/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=eambrosio&style=flat-square&color=blue" alt="eambrosio"/>
+</div>
+
+<h1 align="center">
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+---
+
+### 👨‍💻 About Me
+
+I’m an engineer from Spain
+
+- 🔭 I’m working as a Software Engineer at **Joyn.de**
+- 🌱 I’m currently learning **Rust, Typescript**
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilioambrosiocordero/)
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eambrosio" alt="eambrosio" /></a> </p>
 
-- 🔭 I’m currently working on **Joyn.de**
 
-- 🌱 I’m currently learning **Rust, Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
