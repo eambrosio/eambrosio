@@ -16,36 +16,36 @@
 
 ### 👨‍💻 About Me
 
-I’m an engineer from Spain
+I’m a Software/Data Engineer from Spain
 
-- 🔭 I’m working as a Software Engineer at **Joyn.de**
-- 🌱 I’m currently learning **Rust, Typescript**
+- 🔭 I’m currently working as a Software Engineer at **Joyn.de** using the following tech stack: Typescript, nodeJS, GQL, AWS, Kafka, Serverless and Scala
+- 🌱 Besides, I'm learning **Rust**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilioambrosiocordero/)
 
 ---
 
 ### 🛠️ Languages and Tools :
+![](https://img.shields.io/badge/Code-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Scala-informational?style=for-the-badge&logo=scala&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
+<div></div>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" **alt="Scala" width="40" height="40"/>&nbsp;
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" **alt="Kafka" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>&nbsp;
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodeJS" **alt="nodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
-</div>
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</div>
+![](https://img.shields.io/badge/Tools-PostgresDB-informational?style=for-the-badge&logo=postgresdb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=for-the-badge&logo=kafka&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Grafana-informational?style=for-the-badge&logo=grafana&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Tools-Serverless-informational?style=for-the-badge&logo=serverless&logoColor=white&color=2bbc8a) 
+<div></div>
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
+<div></div>
+
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazon&logoColor=white&color=2bbc8a)
 
 ---
 
