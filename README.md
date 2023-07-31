@@ -27,6 +27,7 @@ I’m a Software/Data Engineer from Spain
 ### 🛠️ Languages and Tools :
 ![](https://img.shields.io/badge/Code-Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Scala-informational?style=for-the-badge&logo=scala&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Akka-informational?style=for-the-badge&logo=akka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
