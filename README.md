@@ -18,8 +18,8 @@
 
 I’m a Software/Data Engineer from Spain
 
-- 🔭 I’m currently working as a Software Engineer at **Joyn.de** using the following tech stack: Typescript, nodeJS, GQL, AWS, Kafka, Serverless and Scala
-- 🌱 Besides, I'm learning **Rust**
+- 🔭 I’m currently working as a Software Engineer at **Joyn.de** using the following tech stack: Typescript, nodeJS, GQL, AWS, Kafka, Serverless, and Scala
+- 🦀 **Rust** enthusiastic. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilioambrosiocordero/)
 
 ---
